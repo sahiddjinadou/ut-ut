@@ -1,0 +1,93 @@
+# Création des test
+
+1- Ajout de test 
+
+- Insertion des questions avec la bonne ou les réponse(s) associée(s)
+- insertion des questions ayant des contenu medias de facçon manuelle    
+- Modifier un test existant pour en faire un nouveau
+- La prévisualisation
+
+
+2- Affectation de test
+
+- Affecter une campagne au nouveau test
+- Affecter un test à un groupe 
+
+
+3- Système de notation
+
+- Définir des règles préexistantes
+- Création de nouvelles règles de notation
+
+
+
+## Gestions des utilisateurs 
+
+1- Création du profil utilisateur
+
+- Création manuelle de l'utilisateur
+- Création par injection CSV
+- Editer la liste des utilisateurs(en spécifiant les états des tests passés par l'utilisateur)
+- Envoyer la liste des utilisateurs 
+- gestion des stagiaires 
+
+
+2- Gestions d'affectation utilisateur
+
+- Mise en place d'un système de comparaison de l'arboressence et de mise à jour en cas de besoin
+
+
+3- Gestions des droits d'accès
+
+- Droit d'accès par défaut (en fonction du poste occupé)
+- Attribution manuelle des droits 
+- Suppression manuelle des droits  
+4- Recherche
+-recherche d'un nom , d'un matricule
+-recherche multiple
+-recherche de test par date
+-filtre 
+5-systeme de double connexion
+
+
+
+### Passage de test 
+
+1- Affichage (questions, réponses)
+
+- Présentation de VIPPTest et accord 
+- Scénario d'affichage
+    - Lecture média
+    - Le décompteur 
+    - Choix de réponse
+- La fonctionnalité REPRENDRE PLUS TARD
+    - Enrégistrement du niveau atteint
+    - Déconnexion
+
+2- Enrégistrer les résultats 
+
+- Enrégistrer le choix de réponses effectuées 
+- Le temps de réponses 
+
+3- Vérifier le résultat suivant le système de notation
+
+- Confronter les choix et le temps de réponses aux règles de notation appropriée 
+- Enrégistrer le résultat du test
+
+
+
+#### Affichage des résultats
+
+1- Représentation graphique des résultats
+
+- Représentation par section
+- Représentation globale
+- Commentaires sur les points d'amélioration
+
+2- Récupération sous fichier PDF et XLS
+
+    - Système d'exploitation de fichier sous les différents formats
+
+3- Historique des résultats
+
+    - Affichage des résultats
